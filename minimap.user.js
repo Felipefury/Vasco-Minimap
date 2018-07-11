@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         PixelTr Minimap
-// @namespace    http://discord.io/pixeltr
+// @name         Vasco Minimap
+// @namespace    Vasco Minimap
 // @version      3.1.2
-// @description  Pixelcanvas Minimap     ☪ | PixelTurkey | ☪
-// @author       Some Anon && Qh0stM4N
+// @description  Pixelcanvas Minimap
+// @author       Some Anon && Qh0stM4N Editado por Felipe GM
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://github.com/Felipefury/Vasco-Minimap/
