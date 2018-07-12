@@ -6,3 +6,6 @@
 
 #### ROMÁRIO
 [![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/Romário.png)](http://pixelcanvas.io/@3270,-698)
+
+#### CALDEIRÃO 
+[![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/São_Januário.png)](http://pixelcanvas.io/@3270,-954)
