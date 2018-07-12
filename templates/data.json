@@ -33,5 +33,12 @@
     "y": -900,
     "width": 225,
     "height": 146
+  },
+    "Escudo_Imperial": {
+    "name": "Escudo_Imperial.png",
+    "x": 3567,
+    "y": -1302,
+    "width": 532,
+    "height": 599
   }
 }
