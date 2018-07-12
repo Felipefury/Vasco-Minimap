@@ -5,5 +5,13 @@
     "y": 0,
     "width": 42,
     "height": 27
+  },
+    "BandeiraVasco": {
+    "name": "BandeiraVasco.png",
+    "x": 2914,
+    "y": -850,
+    "width": 148,
+    "height": 96
   }
+
 }
