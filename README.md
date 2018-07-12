@@ -12,6 +12,3 @@
 
 #### CALDEIRÃO 
 [![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/São_Januário.png)](http://pixelcanvas.io/@3270,-954)
-
-#### Main_Vasco1 
-[![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/Vasco_Main1)](http://pixelcanvas.io/@3132,-1084)
