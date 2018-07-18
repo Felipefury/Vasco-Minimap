@@ -54,5 +54,12 @@
     "y": -585,
     "width": 666,
     "height": 468
+  },
+    "Vasco_Flag_Imperial": {
+    "name": "Vasco_Flag_Imperial.png",
+    "x": 6348,
+    "y": -3831,
+    "width": 1260,
+    "height": 798
   }
 }
