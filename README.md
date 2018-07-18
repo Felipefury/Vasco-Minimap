@@ -2,6 +2,9 @@
 
 
 #### ESCUDO_IMPERIAL 
+[![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/Vasco_Flag_Imperial.png)]
+
+#### ESCUDO_IMPERIAL 
 [![](https://raw.githubusercontent.com/Felipefury/Vasco-Minimap/master/images/Escudo_Imperial.png)](http://pixelcanvas.io/@3847,-980)
 
 #### BANDEIRA_DO_VASCÃO
